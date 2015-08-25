@@ -1,0 +1,6 @@
+D:\practiced\StudCusCompanyAPI\StdCusCompanyAMD\bin\StdCusCompanyAMD.dll.config
+D:\practiced\StudCusCompanyAPI\StdCusCompanyAMD\bin\StdCusCompanyAMD.dll
+D:\practiced\StudCusCompanyAPI\StdCusCompanyAMD\bin\StdCusCompanyAMD.pdb
+D:\practiced\StudCusCompanyAPI\StdCusCompanyAMD\obj\Debug\StdCusCompanyAMD.csprojResolveAssemblyReference.cache
+D:\practiced\StudCusCompanyAPI\StdCusCompanyAMD\obj\Debug\StdCusCompanyAMD.dll
+D:\practiced\StudCusCompanyAPI\StdCusCompanyAMD\obj\Debug\StdCusCompanyAMD.pdb
