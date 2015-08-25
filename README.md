@@ -10,8 +10,9 @@ Download the website and setup into IIS.
 There is 3 pages...
 
 urls for these 3 pages.
-student: http://localhost:8080("portnumber"/#/student
 
-company: http://localhost:8080("portnumber"/#/company
+student: http://localhost:8080("portnumber")/#/student
 
-customer: http://localhost:8080("portnumber"/#/customer
+company: http://localhost:8080("portnumber")/#/company
+
+customer: http://localhost:8080("portnumber")/#/customer
